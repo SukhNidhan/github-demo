@@ -8,4 +8,4 @@ this a simple project     website
 
 ## Deployment
 
-## How To Contribute
+## How To Contribute edit file
